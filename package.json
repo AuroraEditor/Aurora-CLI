@@ -1,0 +1,22 @@
+{
+  "name": "aurora-cli",
+  "version": "1.0.0",
+  "description": "Aurora CLI tool for generating extensions",
+  "main": "cli.js",
+  "type": "module",
+  "bin": {
+    "aurora": "./cli.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ajv": "^8.17.1",
+    "ajv-formats": "^3.0.1",
+    "chalk": "^5.3.0",
+    "commander": "^12.1.0",
+    "execa": "^9.3.1",
+    "fs-extra": "^11.2.0",
+    "inquirer": "^10.1.8"
+  }
+}
