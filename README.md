@@ -13,7 +13,7 @@ The **Aurora CLI Tool** is a powerful command-line utility designed to streamlin
 
 - **User-Centric Design:**  Enjoy guided prompts that ensure all essential information is captured without hassle.
 
-## Installation
+## Development Installation
 
 1. **Clone the Repository:**
 Clone the Aurora CLI repository to your local machine:
